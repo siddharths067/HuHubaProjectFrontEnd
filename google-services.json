@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "271320030078",
+    "firebase_url": "https://huhubaproj.firebaseio.com",
+    "project_id": "huhubaproj",
+    "storage_bucket": "huhubaproj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271320030078:android:6bfe60cfe63e68e3",
+        "android_client_info": {
+          "package_name": "com.huhubaproj.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271320030078-r7f4a0d7fh1170lvjpp9g79jjj56h9e5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdypoZgCAWbJZ-D_2x5sX4Vl5F9pNdQfA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
